@@ -6,13 +6,13 @@ import json
 import re
 
 #Consumer Key
-CK = "KF9FB8laqgKBxwdDi3jYjoqNQ"
+CK = "*******************"
 #ConsumerSecret Key
-CS = "HCk4TbAyUceNOoKekR1JrDnTA5GPw40iy2xAjgwcWVTry37XHG"
+CS = "**********************"
 #Access Token
-AT = "472864471-1viPEeSMNheFb3VK3aCQ0MzgQh883DrFFnPDc44O"
+AT = "*****************"
 #Access Token Secret
-AS = "jjj2ksiZpTOCD4TU03uips2YkYVIm0vgii0xFERVYmbMl"
+AS = "**********************"
 # ツイート投稿用のURL
 url_tweet = "https://api.twitter.com/1.1/statuses/update.json"
 #タイムライン取得用URL
